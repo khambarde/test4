@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Dev\\Final Bot 4 Oct","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\SendException","Automation Anywhere\\Bots\\Sample bots\\Send_Census_Email_31_Oct","Automation Anywhere\\Bots\\Sample bots\\Census_Generation_28_Nov"]}
+{"path":"Automation Anywhere\\Bots\\Dev\\Final Bot 4 Oct","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Sample bots\\Census_Generation_28_Nov","Automation Anywhere\\Bots\\Sample bots\\Send_Census_Email_31_Oct","Automation Anywhere\\Bots\\SendException"]}
